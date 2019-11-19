@@ -65,7 +65,7 @@
     {"Sqft":{"i":"1600"},"No":{"i":"64"},"Customer":"Shahid Upisde","Rent":"25000"},
     {"Sqft":{"i":"1600"},"No":{"i":"65"},"Customer":"Alkhair","Rent":"17000"},
     {"Sqft":{"i":"2400"},"No":{"i":"66"},"Customer":"Irfan Upside","Rent":"54400"},
-    {"Sqft":{"i":"2000"},"No":{"i":"67"},"Customer":"Mustafa Traders-3","Rent":"30000"},
-    {"Sqft":{"i":"4000"},"No":{"i":"68"},"Customer":"Mustafa Traders-4","Rent":"60000"},
+    {"Sqft":{"i":"2000"},"No":{"i":"67"},"Customer":"Abdul Razzak","Rent":"30000"},
+    {"Sqft":{"i":"4000"},"No":{"i":"68"},"Customer":"Empty","Rent":"60000"},
     {"Sqft":{"i":"2500"},"No":{"i":"69"},"Customer":"Under Construction","Rent":"0"}
     ]
